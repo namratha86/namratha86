@@ -13,4 +13,11 @@ I am an educational professional with around 8 years of experience teaching a va
 
 🤔 I’m looking for help with "How to fill the career gap and get back to work?"
 
-**Skills and Teachnolgies**
+## Skills and Technologies
+
+**Programming Languages:** C, C++, Java, Scheme - Functional Programming, CUDA
+
+
+
+
+
